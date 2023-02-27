@@ -1,6 +1,3 @@
-JavaScript:
-
-```javascript
 function calculateScore() {
   // Get the values of each question
   const q1 = Number(document.getElementById('q1').value);
